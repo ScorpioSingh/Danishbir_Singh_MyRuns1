@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyRuns1</string>
+    <string name="name_box">Your name here</string>
+    <string name="email_box">Your E-Mail here</string>
+    <string name="number">Your phone number here</string>
+    <string name="class_filling">Your Class here</string>
+    <string name="name_view">Name</string>
+    <string name="e_mail_view">Email:</string>
+    <string name="number_view">Phone:</string>
+    <string name="gender_view">Gender</string>
+    <string name="photo">Profile Photo</string>
+    <string name="Class_View">Class:</string>
+    <string name="Class_edit">e.g.2012</string>
+    <string name="Major_box">Your major here</string>
+    <string name="Major_heading">Major</string>
+
+</resources>
